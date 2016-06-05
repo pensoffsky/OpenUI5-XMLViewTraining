@@ -113,3 +113,16 @@ Related OpenUI5 Documentation:
 
 
 # Exercise 6: Page with SimpleForm
+
+[JS Bin Exercise](http://jsbin.com/celovay/1/embed?html,output) (Open in new tab)
+
+**Instructions**:
+- Use what you have learned from the previous exercises
+- Add the title to the page
+- Add the simpleForm to the content area of the page
+- Add the Save and Cancel buttons
+
+from
+<img src="PageWithSimpleForm/src.PNG" width="400">
+to
+<img src="PageWithSimpleForm/goal.PNG" width="400">
