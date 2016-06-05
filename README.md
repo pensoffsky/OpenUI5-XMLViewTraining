@@ -1,6 +1,6 @@
 # What how why?
 - What: 
- - These are small exercises you can do to learn definition of UI5 views using the XML syntax. 
+ - These are small exercises you can do to learn creating UI5 views using the XML syntax. 
 - How: 
  - Choose an exercise
  - Read the instructions
