@@ -16,10 +16,12 @@ Related OpenUI5 Documentation:
 
 - Open the exercise in a new tab: [Exercise](http://jsbin.com/daveta/11/embed?html,output)
 
+# Basic Layouting 2
+
+# SimpleForm
 
 
-
-# Page Buttons
+# Page with Buttons
 
 from
 <img src="Exercise2/src.png" width="400">
@@ -34,3 +36,6 @@ Related OpenUI5 Documentation:
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Page.html
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Toolbar.html
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.ToolbarSpacer.html
+
+
+# Page with SimpleForm
