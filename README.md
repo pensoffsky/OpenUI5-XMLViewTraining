@@ -33,6 +33,8 @@ Related OpenUI5 Documentation:
 
 # Exercise 2: Basic Layouting
 
+[JS Bin Exercise](http://jsbin.com/daveta/11/embed?html,output) (Open in new tab)
+
 **Instructions**: Add buttons 3.1 and 7
 
 from
@@ -40,7 +42,7 @@ from
 to
 <img src="BasicLayouting/goal.png" width="400">
 
-[JS Bin Exercise](http://jsbin.com/daveta/11/embed?html,output) (Open in new tab)
+
 
 Related OpenUI5 Documentation:
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.HBox.html
