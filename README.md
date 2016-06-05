@@ -25,6 +25,7 @@ http://jsbin.com/danome/2/embed?html,output
 
 # SimpleForm
 
+http://jsbin.com/davate/2/embed?html,output
 
 # Page with Buttons
 
