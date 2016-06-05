@@ -12,56 +12,84 @@
  - why not?
 
 
-# Exercise: Button Basics
 
-Instructions: Change the text of the Button control from "Edit me" to "Hello World"
+
+
+# Exercise 1: Button Basics
+
+[JS Bin Exercise](http://jsbin.com/kupazaw/9/embed?html,output) (Open in new tab)
+
+**Instructions**: Change the text of the Button control from "Edit me" to "Hello World"
 
 from ![](Exercise1/src.png) to ![](Exercise1/goal.png)
 
-[JS Bin Exercise](http://jsbin.com/kupazaw/9/embed?html,output)
-
 Related OpenUI5 Documentation:
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Button.html
-- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.ButtonType.html
 
-# Exercise: Basic Layouting
 
-Instructions: Add buttons 3.1 and 7
+
+
+
+
+# Exercise 2: Basic Layouting
+
+**Instructions**: Add buttons 3.1 and 7
 
 from
 <img src="BasicLayouting/src.png" width="400">
 to
 <img src="BasicLayouting/goal.png" width="400">
 
-[JS Bin Exercise](http://jsbin.com/daveta/11/embed?html,output)
+[JS Bin Exercise](http://jsbin.com/daveta/11/embed?html,output) (Open in new tab)
 
-# Exercise: Basic Layouting 2
+Related OpenUI5 Documentation:
+- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.HBox.html
+- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.VBox.html
 
-Instructions: Add the row with the select control and the text control
+
+
+# Exercise 3: Basic Layouting 2
+
+[JS Bin Exercise](http://jsbin.com/danome/2/embed?html,output) (Open in new tab)
+
+**Instructions**: Add the row with the select control and the text control
 
 from
 <img src="BasicLayouting2/src.PNG" width="400">
 to
 <img src="BasicLayouting2/goal.PNG" width="400">
 
-[JS Bin Exercise](http://jsbin.com/danome/2/embed?html,output)
+Related OpenUI5 Documentation:
+- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Select.html
+- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Switch.html
+- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Label.html
+- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Text.html
 
 
-# Exercise: SimpleForm
 
-Instructions: Change the width of the select control to the same width as the button control
+
+# Exercise 4: SimpleForm
+
+[JS Bin Exercise](http://jsbin.com/davate/3/embed?html,output) (Open in new tab)
+
+**Instructions**: Change the width of the select control to the same width as the button control
 
 from
 <img src="Simpleform/src.PNG" width="400">
 to
 <img src="Simpleform/goal.PNG" width="400">
 
-[JS Bin Exercise](http://jsbin.com/davate/3/embed?html,output)
+Related OpenUI5 Documentation:
+- https://openui5.hana.ondemand.com/#docs/api/symbols/sap.ui.layout.form.SimpleForm.html
 
 
-# Exercise: Page with Buttons
 
-Instructions:
+
+# Exercise 5: Page with Buttons
+
+[JS Bin Exercise](http://jsbin.com/hofidir/13/embed?html,output) (Open in new tab)
+
+**Instructions**:
 - Change the title of the page
 - Change the icon of the header button
 - Change the text in the page content area
@@ -72,9 +100,6 @@ from
 to
 <img src="Exercise2/goal.png" width="400">
 
-[JS Bin Exercise](http://jsbin.com/hofidir/13/embed?html,output)
-
-
 Related OpenUI5 Documentation:
 - https://openui5.hana.ondemand.com/iconExplorer.html
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.Page.html
@@ -82,4 +107,7 @@ Related OpenUI5 Documentation:
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.ToolbarSpacer.html
 
 
-# Exercise: Page with SimpleForm
+
+
+
+# Exercise 6: Page with SimpleForm
