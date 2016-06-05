@@ -13,7 +13,10 @@ Related OpenUI5 Documentation:
 - https://openui5.hana.ondemand.com/#docs/api/symbols/sap.m.ButtonType.html
 
 # Basic Layouting
-
+from
+<img src="BasicLayouting/src.png" width="400">
+to
+<img src="BasicLayouting/goal.png" width="400">
 - Open the exercise in a new tab: [Exercise](http://jsbin.com/daveta/11/embed?html,output)
 
 # Basic Layouting 2
