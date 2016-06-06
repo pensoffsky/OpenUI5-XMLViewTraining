@@ -133,9 +133,4 @@ to
 
 # Exercise 7: Grid Basics
 
-[JS Bin Exercise](http://jsbin.com/yeniji/3/embed?html,output) (Open in new tab)
-
-from
-<img src="GridBasics/src.PNG" width="400">
-to
-<img src="GridBasics/goal.PNG" width="400">
+[JS Bin Exercise](http://jsbin.com/zizilu/3/embed?html,output) (Open in new tab)
