@@ -134,3 +134,7 @@ to
 # Exercise 7: Grid Basics
 
 [JS Bin Exercise](http://jsbin.com/zizilu/3/embed?html,output) (Open in new tab)
+
+# Exercise 8: Grid Basics 2 (Indent, Linebreak)
+
+[JS Bin Exercise](http://jsbin.com/faquli/4/embed?html,output) (Open in new tab)
