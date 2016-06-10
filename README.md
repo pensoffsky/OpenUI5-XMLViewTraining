@@ -15,3 +15,7 @@ If you are new to XML views try these first
 ### sap.ui.layout.Grid
 - [Basics](http://jsbin.com/zizilu/4/embed?html,output)
 - [Indent and Linebreak](http://jsbin.com/faquli/9/embed?html,output) 
+
+
+### sap.m.FlexBox
+- [Basics](http://jsbin.com/zumufe/23/embed?html,output)
