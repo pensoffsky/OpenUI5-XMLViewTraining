@@ -19,3 +19,4 @@ If you are new to XML views try these first
 
 ### sap.m.FlexBox
 - [Basics](http://jsbin.com/zumufe/23/embed?html,output)
+- [GrowFactor and Column](http://jsbin.com/lezufo/3/embed?html,output)
