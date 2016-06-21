@@ -21,3 +21,16 @@ If you are new to XML views try these first
 - [Basics](http://jsbin.com/zumufe/23/embed?html,output)
 - [GrowFactor and Column](http://jsbin.com/lezufo/3/embed?html,output)
 - [MinWidth and AlignSelf](http://jsbin.com/suwuco/3/embed?html,output)
+
+
+
+
+
+# Playground
+
+OpenUI5 samples to play around with (no exercises)
+
+- Breadcrumb http://jsbin.com/camaje/1/embed?html,output
+- Link	http://jsbin.com/sozeraf/1/embed?html,output
+- tnt:NavigationList http://jsbin.com/sakicu/1/embed?html,output
+- Overflow Toolbar http://jsbin.com/weruta/1/embed?html,output
