@@ -30,7 +30,7 @@ If you are new to XML views try these first
 
 OpenUI5 samples to play around with (no exercises)
 
-- [sap.m.Breadcrumbs](http://jsbin.com/camaje/1/embed?html,output)
+- [sap.m.Breadcrumbs](http://jsbin.com/camaje/2/embed?html,output)
 - [sap.m.Link](http://jsbin.com/sozeraf/1/embed?html,output)
 - [sap.tnt.NavigationList](http://jsbin.com/sakicu/1/embed?html,output)
 - [sap.m.OverflowToolbar](http://jsbin.com/weruta/1/embed?html,output)
